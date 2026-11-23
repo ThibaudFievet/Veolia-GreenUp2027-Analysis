@@ -38,7 +38,7 @@ Plutôt que de remettre uniquement un PDF académique classique, nous avons dév
 
 > **Interactive web version of our consulting report for our final project in the Innovations in Finance course (EDHEC) on behalf of Veolia's M&A team: evaluating whether the group's recent acquisitions generate genuine financial, ESG, and societal performance for the GreenUp 2027 plan, beyond mechanical consolidation effects.**
 
-**Live Website:** [thibaudfievet.github.io/veolia-greenup-capstone](https://thibaudfievet.github.io/veolia-greenup-capstone/)
+**Live Website:** [thibaudfievet.github.io/Veolia-GreenUp2027-Analysis](https://thibaudfievet.github.io/Veolia-GreenUp2027-Analysis/)
 
 ---
 
