@@ -4,8 +4,7 @@
 
 > **Version web interactive de notre rapport de conseil dans le cadre de notre projet final dans la matière Innovations in Finance (EDHEC) pour le compte de l'équipe M&A de Veolia : évaluer si les acquisitions récentes du groupe créent une réelle performance financière, ESG et sociétale pour le plan GreenUp 2027, au-delà des effets mécaniques de consolidation.**
 
-**Accéder au site en ligne :** [thibaudfievet.github.io/Veolia-GreenUp2027-Analysis](https://thibaudfievet.github.io/Veolia-GreenUp2027-Analysis
-/)
+**Accéder au site en ligne :** [thibaudfievet.github.io/Veolia-GreenUp2027-Analysis](https://thibaudfievet.github.io/Veolia-GreenUp2027-Analysis/)
 
 ---
 
